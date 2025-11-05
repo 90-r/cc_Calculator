@@ -3,9 +3,7 @@
 
 int main()
 {
-	int start{};
-	std::cout << "Would you like to start? (1 or 0)" << '\n';
-	std::cin >> start;
+	int start{1};
 	userInterface(start);
 
 	return 0;
