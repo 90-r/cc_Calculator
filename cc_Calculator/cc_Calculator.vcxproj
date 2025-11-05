@@ -124,6 +124,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="runCC_Calc.cpp" />
+    <ClCompile Include="userInterface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calculationHeader.h" />
+    <ClInclude Include="ccMainHeader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
