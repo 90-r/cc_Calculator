@@ -51,7 +51,7 @@
 
 🧰 Technologies
 
-    C++14
+    C++17
 
     SFML (for future UI and visualization)
   
